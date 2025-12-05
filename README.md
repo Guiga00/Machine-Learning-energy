@@ -13,8 +13,8 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico, aplicando co
 | **Juliandre Burhkardt** | <a href="https://github.com/Burhkardt">Burhkardt</a> |
 | **Viviane Vitória** | <a href="https://github.com/vih0557">Vih0557</a> |
 | **Thomás D`Ângelo** | <a href="https://github.com/Thomgomes">Thomgomes</a> |
-| **Luiza Queiroz** | <a href="https://github.com/Guiga00">Luiza</a> |
-| **Renan Ben-hur** | <a href="https://github.com/Guiga00">Ben-hur</a> |
+| **Luiza Queiroz** | <a href="https://github.com/luiz4queir0z">luiz4queir0z</a> |
+| **Renan Ben-hur** | <a href="">Ben-hur</a> |
 
 </div><br>
 
