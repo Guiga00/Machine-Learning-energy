@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico, aplicando co
 | Nome | GitHub |
 |------|--------|
 | **Guilherme Medeiros** | <a href="https://github.com/Guiga00">Guiga00</a> |
-| **Luiz Miguel** | <a href="https://github.com/Leugz">Leugz</a> |
+| **Miguel Ribeiro** | <a href="https://github.com/Leugz">Leugz</a> |
 | **Juliandre Burhkardt** | <a href="https://github.com/Burhkardt">Burhkardt</a> |
 | **Viviane Vitória** | <a href="https://github.com/vih0557">Vih0557</a> |
 | **Thomás D`Ângelo** | <a href="https://github.com/Thomgomes">Thomgomes</a> |
