@@ -1,6 +1,26 @@
 # Previsão de Conta de Energia Elétrica com Redes Neurais
 
-Este projeto utiliza **Redes Neural** implementado com **TensorFlow/Keras** para prever o valor da conta de energia elétrica (`Valor_R$`) com base em um conjunto de dados históricos. A aplicação é disponibilizada através de uma interface interativa construída com **Streamlit**.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico, aplicando conceitos de Machine Learning e desenvolvimento de aplicação interativa para a área de análise de consumo de energia.
+
+<div align="center">
+
+### Desenvolvedores do projeto
+
+| Nome | GitHub |
+|------|--------|
+| **Guilherme Medeiros** | <a href="https://github.com/Guiga00">Guiga00</a> |
+| **Luiz Miguel** | <a href="https://github.com/Leugz">Leugz</a> |
+| **Juliandre Burhkardt** | <a href="https://github.com/Burhkardt">Burhkardt</a> |
+| **Viviane Vitória** | <a href="https://github.com/vih0557">Vih0557</a> |
+| **Thomás D`Ângelo** | <a href="https://github.com/Thomgomes">Thomgomes</a> |
+| **Luiza Queiroz** | <a href="https://github.com/Guiga00">Luiza</a> |
+| **Renan Ben-hur** | <a href="https://github.com/Guiga00">Ben-hur</a> |
+
+</div><br>
+
+
+
+Utilizando-se de **Redes Neural** implementado com **TensorFlow/Keras** para prever o valor da conta de energia elétrica (`Valor_R$`) com base em um conjunto de dados históricos. A aplicação é disponibilizada através de uma interface interativa construída com **Streamlit**.
 
 -----
 
@@ -98,22 +118,6 @@ O projeto inclui as seguintes visualizações geradas durante o treinamento:
   * **Temperatura vs Gasto de Energia** [temperatura\_vs\_gasto.png]: Dispersão entre temperatura e valor, colorida pelo uso do ar-condicionado.
   * **Evolução do Treinamento** [treinamento\_metricas.png]: Gráficos de Loss e MAE ao longo das épocas de treinamento.
   * **Previsões vs Valores Reais** [previsoes\_vs\_reais.png]: Comparação gráfica entre os valores previstos e os valores reais do conjunto de teste.
-
-<div align="center"><br>
-
-### Integrantes do grupo
-
-| Nome | GitHub |
-|------|--------|
-| **Guilherme Medeiros** | <a href="https://github.com/Guiga00">Guiga00</a> |
-| **Luiz Miguel** | <a href="https://github.com/Leugz">Leugz</a> |
-| **Juliandre Burhkardt** | <a href="https://github.com/Burhkardt">Burhkardt</a> |
-| **Viviane Vitória** | <a href="https://github.com/vih0557">Vih0557</a> |
-| **Thomás D`Ângelo** | <a href="https://github.com/Thomgomes">Thomgomes</a> |
-| **Luiza Queiroz** | <a href="https://github.com/Guiga00">Luiza</a> |
-| **Renan Ben-hur** | <a href="https://github.com/Guiga00">Ben-hur</a> |
-
-</div>
 
 
 
