@@ -29,7 +29,20 @@ O modelo é uma rede neural sequencial. As métricas de desempenho no conjunto d
 
 ## Tutorial de Execução
 
-Siga os passos abaixo para instalar as dependências, treinar o modelo (opcional) e rodar a aplicação Streamlit localmente.
+Siga os passos abaixo para instalar as dependências, treinar o modelo (opcional) e rodar a aplicação Streamlit localmente. 
+
+O repositório já possui o modelo treinado com os arquivos necessários para serem testados, mas se quiser treinar do zedo, delete os arquivos: 
+
+```
+correlacao_variaveis.png
+previsoes_vs_reais.png
+temperatura_vs_gasto.png
+treinamento_metricas.png
+scaler_X.pkl
+scaler_Y.pkl
+metricas.pkl
+modelo_energia.h5
+```
 
 ### Requerimentos Locais
 
